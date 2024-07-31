@@ -1,0 +1,1 @@
+This project involves analyzing sales data to gain insights into sales performance, trends, and patterns. The analysis is conducted using Python, and the project includes data cleaning, data visualization, and statistical analysis.
